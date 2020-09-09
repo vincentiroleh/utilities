@@ -1,8 +1,6 @@
+**This repo is a list of useful Linux (deb) utility tools that makes everyday task easier.**
+
 # Utilities
-
-This repo is a list of useful Linux (deb) utility tools that makes everyday task easier
-
-# Projects
 
 ## **[Basic Web Development Software Installer](https://github.com/vincentiroleh/wdt)**
 
